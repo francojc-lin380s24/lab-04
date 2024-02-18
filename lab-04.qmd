@@ -10,3 +10,6 @@ bibliography: bibliography.bib
 Reproducible research is... 
 
 ## Project management
+
+1. Fork
+2. Clone
