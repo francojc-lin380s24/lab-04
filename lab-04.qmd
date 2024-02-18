@@ -7,5 +7,6 @@ bibliography: bibliography.bib
 
 ## Reproducible research
 
+Reproducible research is... 
 
 ## Project management
